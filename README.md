@@ -1,16 +1,6 @@
 <h1 align="center">📚 BookWorm – Full‑Stack React Native App 🚀</h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
 
-## 🎯 What You'll Build
-
-This is a true **full‑stack** project—not just a pretty UI.
-
-✅ Works on **real devices & simulators** (Android / iOS)  
-✅ Zero native code, zero paid services  
-✅ Complete build in **~7 hours**
-
----
 
 ## 🧑‍🍳 App Features Overview
 
@@ -25,7 +15,7 @@ This is a true **full‑stack** project—not just a pretty UI.
 
 ---
 
-## 🧠 What You’ll Learn
+## 🧠 What to Learn
 
 - ⚙️ Build a REST API with **Node.js**, **Express** & **MongoDB**
 - 🔑 Implement stateless auth using **JSON Web Tokens (JWT)**
